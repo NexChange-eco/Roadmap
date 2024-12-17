@@ -16,7 +16,7 @@
 
 ### 🎯 **Expected Outcomes:**
 - 🚦 Ensure platform **stability and functionality** on the Cardano testnet.
-- 🚀 Prepare for **mainnet deployment** with robust features.
+- 🚀 Prepare for **mainnet deployment** .
 
 ---
 
@@ -28,7 +28,7 @@
 - 🪙 Enable **USDA** for Buy/Sell transactions on Cardano.
 
 ### 📋 **Details:**
-- ⚙️ Develop **APIs** for real-time registry data synchronization.
+- ⚙️ Develop **APIs** for real-time registry data synchronization (**Gold Standard**).
 - 🖥️ Refine the **user interface** to display verified carbon credits with registry details.
 
 ### 🎯 **Expected Outcomes:**
@@ -42,8 +42,8 @@
 
 ### 🔑 **Key Milestones:**
 - 🔗 Integrate with **Encryptus** for smooth fiat **on-ramp** and **off-ramp** processes.
-- 🚀 Launch the **Nexchange ecosystem token** on Cardano.
-- 📈 List the token on **Minswap** for trading.
+- 🚀 Launch the **Nexchange ecosystem token** on Cardano (**NEXC**).
+- 📈 List **NEXC** on **Minswap** for trading. Initial trading pairS **NEXC/ADA** & **NEXC/USDA**.
 
 ### 📋 **Details:**
 - 🔒 Implement secure and automated **fiat-to-stablecoin conversion** mechanisms.
